@@ -8,7 +8,7 @@ code  for restaurant
 
 ## Github Pages
 
-le liens qui permet de voir le site grace à la github pages.
+le liens qui permet de voir le site grace à la github pages [link](https://katinda.github.io/site-du-chef/index.html) .
 
 
 ## Utilaisation
